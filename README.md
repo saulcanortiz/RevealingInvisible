@@ -20,7 +20,7 @@ The proposal is based on the fact that the CNN is trained with two input images 
 Therefore, the proposed **neural network** must **learn** to **magnify** such **imperceptible changes** from the processing method explained previously. That is, it will be trained and validated with images, while when applied to videos, the video sequences will be divided into images (frames), passed through the network and joined together, to form the magnified video.
 </p>
 
-[![IMAGE ALT TEXT](logo_RI.PNG)](https://youtu.be/ZV32120yU7c)
+[![IMAGE ALT TEXT](youtube.jpg)](https://youtu.be/ZV32120yU7c)
 
 
 
