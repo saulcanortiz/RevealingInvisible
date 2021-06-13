@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 
 <p align="center">
-    <img src="logo_RI.PNG" alt="Logo" width="200" height="200">
+    <img src="logo_RI.PNG" alt="Logo" width="300" height="300">
 </p>
 
 
@@ -19,6 +19,8 @@ The proposal is based on the fact that the CNN is trained with two input images 
 
 Therefore, the proposed **neural network** must **learn** to **magnify** such **imperceptible changes** from the processing method explained previously. That is, it will be trained and validated with images, while when applied to videos, the video sequences will be divided into images (frames), passed through the network and joined together, to form the magnified video.
 </p>
+
+[![IMAGE ALT TEXT](logo_RI.PNG)](https://youtu.be/ZV32120yU7c)
 
 
 
@@ -48,9 +50,9 @@ conda install docopt
 conda install tqdm
 
 ```
-3. Clone the repo
+2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/saulcanortiz/RevealingInvisible.git
    ```
 3. Install NPM packages
    ```sh
